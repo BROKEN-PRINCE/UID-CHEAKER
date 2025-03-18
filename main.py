@@ -12,12 +12,13 @@ HTML_TEMPLATE = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FACEBOOK TOKEN CHEAKER</title>
+    <title>❣️𝑴𝑨𝑫𝑬 𝑩𝒀 𝑳𝑬𝑮𝑬𝑵𝑫 𝑷𝑹𝑰𝑵𝑪𝑬❣️
+</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            background: url('https://i.ibb.co/qYtGC5Kz/In-Shot-20250306-044013972.jpg') no-repeat center center fixed;
+            background: url('https://i.ibb.co/B29S3RVn/9c05e8c4a34eafe2e9d15fed6ee4458f.jpg') no-repeat center center fixed;
             background-size: cover;
             color: white;
             margin: 0;
@@ -72,10 +73,10 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <div class="container">
-        <h2>FACEBOOK TOKEN CHEAKER</h2>
+        <h2>𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 𝑼𝑰𝑫 𝑪𝑯𝑬𝑨𝑲𝑬𝑹</h2>
         <form method="POST">
-            <input type="text" name="token" placeholder="ENTER TOKEN" required>
-            <button type="submit">CHECK TOKEN</button>
+            <input type="text" name="token" placeholder="𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 𝑼𝑰𝑫 𝑪𝑯𝑬𝑨𝑲𝑬𝑹" required>
+            <button type="submit">❣️𝑮𝑬𝑻 𝑼𝑰𝑫❣️</button>
         </form>
         {% if groups %}
             <div class="result">
@@ -90,7 +91,8 @@ HTML_TEMPLATE = """
         {% if error %}
             <p class="result" style="color: red;">{{ error }}</p>
         {% endif %}
-        <div class="result">THE LEGEND BOY PRINCE HERE</div>
+        <div class="result">❣️𝑴𝑨𝑫𝑬 𝑩𝒀 𝑳𝑬𝑮𝑬𝑵𝑫 𝑷𝑹𝑰𝑵𝑪𝑬❣️
+</div>
     </div>
 </body>
 </html>
